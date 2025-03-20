@@ -1,0 +1,8 @@
+#include<iostream>
+#include<string>
+class BookTicket{
+public:
+    static const int numberofseats = 100;
+    static const int sleeper = 70;
+    static const int RAC = 30;
+}
